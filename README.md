@@ -75,8 +75,8 @@ Before installing osTicket, the following components were prepared:
 The project was performed inside an Ubuntu Server virtual machine
 running through Oracle VirtualBox.
 
-![VirtualBox Configuration](<img width="1210" height="528" alt="Screenshot 2026-09-23 132246" src="https://github.com/user-attachments/assets/1a97c266-c84c-4090-b080-77600b177eb9" />
-)
+
+![VirtualBox VM Configuration](screenshots/01-virtualbox-vm.png)
 
 ---
 
