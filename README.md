@@ -170,6 +170,8 @@ interface.
 
 ![Ticket Resolution](screenshots/11-ticket-resolution.png)
 
+![Ticket Resolution](screenshots/11-ticket-resolution(b).png)
+
 ---
 
 # Troubleshooting
