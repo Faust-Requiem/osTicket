@@ -103,6 +103,8 @@ PHP and the required extensions were installed and verified.
 
 ![PHP Configuration](screenshots/04-php.png)
 
+![PHP Configuration](screenshots/04-php(b).png)
+
 ---
 
 ## 5. MariaDB Database
