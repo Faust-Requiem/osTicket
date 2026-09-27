@@ -70,7 +70,7 @@ Before installing osTicket, the following components were prepared:
 
 # Demonstration
 
-**Please Note: With each demonstration, within the screenshot contains the commands used to obtain the information.
+**Please Note: With each demonstration, each screenshot contains the commands used to obtain the information.
 **
 ## 1. Virtual Machine Environment
 
