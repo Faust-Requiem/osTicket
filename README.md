@@ -132,6 +132,8 @@ application requirements.
 
 ![osTicket Requirements](screenshots/07-requirements.png)
 
+![osTicket Requirements](screenshots/07-requirements(b).png)
+
 ---
 
 ## 8. Installation
